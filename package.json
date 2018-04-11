@@ -1,0 +1,18 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "Node Training App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  
+  "author": "Haumer Cuellar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-validator": "^5.1.1",
+    "mongoose": "^5.0.12"
+  }
+}
